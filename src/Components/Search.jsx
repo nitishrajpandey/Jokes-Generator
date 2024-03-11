@@ -12,7 +12,6 @@ function Search() {
           <p className="text-lg ssm:text-xl font-semibold mb-4">
             "Laugh Central: Where Comedy Reigns Supreme!"
           </p>
-          <h1>© 2022 NITISH RAJ . All Right Reserved</h1>
         </div>
       </div>
     </div>
